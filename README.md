@@ -1,6 +1,9 @@
-Auslastungs-Checker für FitnessPoint Studios
+**Auslastungs-Checker für FitnessPoint Studios!**
 
-HOW-TO-USE:
+Eines Script welches die Auslastung von eurem McFit checkt! Benachrichtung gibts per Discord Webhook!
+
+
+**HOW-TO-USE:**
 
 1. Wähle aus "studios.txt" deine gewünschte StudioNummer
 2. Öffne "checker.py"
